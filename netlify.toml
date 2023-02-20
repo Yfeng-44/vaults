@@ -15,7 +15,7 @@ PYTHON_VERSION = "3.8"
 # (REQUIRED) Site repo URL
 REPO_URL = "https://github.com/Yfeng-44/valuts"
 # (Optional) Site title in navbar
-SITE_TITLE = "I have nothing but intelligence."
+SITE_TITLE = "Writing Software for better hardware"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = ""
 # (REQUIRED) Netlify site URL
